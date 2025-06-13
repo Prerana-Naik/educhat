@@ -4,8 +4,8 @@ import { useState } from "react";
 import { AssistantRuntimeProvider } from "@assistant-ui/react";
 import { useChatRuntime } from "@assistant-ui/react-ai-sdk";
 import { Thread } from "@/components/assistant-ui/thread";
-import { SidebarInset, SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
-import { AppSidebar } from "@/components/app-sidebar";
+// import { SidebarInset, SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+// import { AppSidebar } from "@/components/app-sidebar";
 import { Separator } from "@/components/ui/separator";
 import {
   Breadcrumb,
